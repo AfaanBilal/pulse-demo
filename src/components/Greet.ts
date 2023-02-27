@@ -10,7 +10,7 @@ import { createPulse, createMonitor } from "@afaanbilal/pulse";
 const Greet = () => {
     console.log("Greet running.");
 
-    const [name, setName] = createPulse("Afaan");
+    const [name, setName] = createPulse("");
     const greeting = () => name() ? `Hello, ${name()}!` : ``;
 
     const input = document.createElement("input") as HTMLInputElement;
