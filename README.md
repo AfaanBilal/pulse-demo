@@ -6,7 +6,7 @@ Author: **[Afaan Bilal](https://afaan.dev)**
 Link: **[Pulse Demo](https://afaan.dev/pulse-demo)**
 
 ## Introduction
-**Pulse** is a demo of [PulseJS](https://github.com/AfaanBilal/pulsejs).
+**Pulse Demo** is a demo of [PulseJS](https://github.com/AfaanBilal/pulsejs).
 
 ## Run
 ````
